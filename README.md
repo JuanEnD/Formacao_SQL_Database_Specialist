@@ -11,7 +11,7 @@ Essa formação foi dividida em 5 Modulos e nela desenvolvi minhas habilidades c
 
   **[1º Projeto](https://github.com/JuanEnD/Formacao_SQL_Database_Specialist/blob/main/Desafios_De_Projeto/Modulo_2/E_Commerce_Modelo_Conceitual_Refinado.png)**
  
-  **[2º Projeto]()**
+  **[2º Projeto](https://github.com/JuanEnD/Formacao_SQL_Database_Specialist/blob/main/Desafios_De_Projeto/Modulo_2/Oficina_Mecanica_Modelo_Conceitual.png)**
 - 3º Módulo - Explorando a Linguagem de Consulta a Banco de Dados SQL: Nesse módulo aprendi sobre Modelo Relacional, Lógico, SQL, Queries e ainda teve dois projetos onde construi o meu primeiro projeto lógico de Banco de Dados e o outro construi um projeto lógico do zero.
   
   **[1º Projeto]()**
